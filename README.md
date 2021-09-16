@@ -15,19 +15,17 @@ Eğitim Süresi : 3 Gün
 
 ## 1.	Gün : Veri Analitiğine Giriş
 
-A.	Veri Toplama, Temizleme, Ayıklama ve Hazırlama Süreçleri
+A.	Veri Toplama, Temizleme, Ayıklama ve Hazırlama Süreçleri 
 
-B.	Veri Toplama, Ayıklama, Temizleme
+B.	Veri Doğruluğu, Geçerliliği, Bütünlüğü, Tekilliği, Tutarlılığı, Zamansallık Kontrollerinin yapılması
 
-C.	Veri Doğruluğu, Geçerliliği, Bütünlüğü, Tekilliği, Tutarlılığı, Zamansallık Kontrollerinin yapılması
+C.	Verinin Standartlaştırılması ve Normalizasyonu
 
-D.	Verinin Standartlaştırılması ve Normalizasyonu
+D.	Örneklem Seçimi Metodolojileri
 
-E.	Örneklem Seçimi Metodolileri
+E.	Verinin Sistematikleştirilmesi ve Periyodikleştirilmesi
 
-F.	Verinin Sistematikleştirilmesi ve Periyodikleştirilmesi
-
-G.	Özellik Üretme ve Özellik Seçim Süreci
+F.	Özellik Üretme ve Özellik Seçim Süreci
 
 
 ## 2.	Gün : Python ile Veri Analitiği – I
