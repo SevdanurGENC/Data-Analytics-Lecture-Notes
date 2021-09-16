@@ -11,26 +11,47 @@ Eğitim Sırasında Kullanılacak Olan Bilgisayar Programları : Python
 
 Eğitim Süresi : 3 Gün
 
-Eğitim İçeriği Hakkında : 
-1.	Gün : Veri Analitiğine Giriş
+# Eğitim İçeriği Hakkında : 
+
+## 1.	Gün : Veri Analitiğine Giriş
+
 A.	Veri Toplama, Temizleme, Ayıklama ve Hazırlama Süreçleri
+
 B.	Veri Toplama, Ayıklama, Temizleme
+
 C.	Veri Doğruluğu, Geçerliliği, Bütünlüğü, Tekilliği, Tutarlılığı, Zamansallık Kontrollerinin yapılması
+
 D.	Verinin Standartlaştırılması ve Normalizasyonu
+
 E.	Örneklem Seçimi Metodolileri
+
 F.	Verinin Sistematikleştirilmesi ve Periyodikleştirilmesi
+
 G.	Özellik Üretme ve Özellik Seçim Süreci
 
-2.	Gün : Python ile Veri Analitiği – I
+
+## 2.	Gün : Python ile Veri Analitiği – I
+
 A.	Python yazılım dili ve geliştirme ortamı özelliklerinin tanıtılması
+
 B.	Temel veri yapıları ve fonksiyonların öğrenilmesi
+
 C.	Numpy ile bilimsel hesaplamalar yapılması
+
 D.	Pandas ile veri analizi
+
 E.	Matplotlib ile veri görselleştirilmesi
 
-3.	Gün : Python ile Veri Analitiği - II
+
+## 3.	Gün : Python ile Veri Analitiği - II
+
 A.	Python'da veri ön işleme tekniklerinin öğrenilmesi
+
 B.	Scikit-learn ile makine öğrenmesi uygulamaları
+
 C.	Python ile temel uygulamaların gerçeklenmesi
+
 D.	Python ile optimizasyon modeli oluşturulması
+
 E.	Derin öğrenme algoritmalarının Python’da kullanılması
+
