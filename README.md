@@ -1,5 +1,5 @@
 # Data-Analytics-Lecture-Notes
-This repo contains the contents of the data analytics training that will be given to Innova Teknoloji under Information Technologies Training and Consultancy between 27 - 29 September 2021.
+This repo contains the contents of the data analytics training that will be given to Academy Peak Innova Teknoloji under Information Technologies Training and Consultancy between 27 - 29 September 2021.
 
 Bu repoda, 27 - 29 Eylül 2021 tarihleri arasında Academy Peak Bilgi Teknolojileri Eğitim ve Danışmanlığı bünyesinde Innova Teknoloji şirketine verilecek olan veri analitiği eğitimine ait ders içeriklerim bulunmaktadır.
 
